@@ -1,4 +1,4 @@
-# kos-kosan
+# nearby-place-locator
 Aplikasi pencari tempat terdekat menggunakan Google Maps API<br>
 Nearby place locator app using Google Maps API
 
