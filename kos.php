@@ -169,7 +169,7 @@ if(isset($_SESSION['KOS_STATUS'])) {
     <!-- JQuery -->
     <script type="text/javascript" src="js/jquery-3.3.1.min.js"></script>
     <!-- API Google MAPS -->
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAFRvhWTrpE77H0fo7hD4Ie5c1Ed8Uy3gM" ></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=" ></script>
     <!-- Bootstrap tooltips -->
     <script type="text/javascript" src="js/popper.min.js"></script>
     <!-- Bootstrap core JavaScript -->
