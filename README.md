@@ -4,7 +4,7 @@ Nearby place locator app using Google Maps API
 
 <h4>Preparation</h4>
 1. import database kos.sql <br>
-2. Insert key Google Maps API in index.php and bodata.php
+2. Insert key Google Maps API in index.php, kos.php, and bodata.php
 <img src="api.PNG">
 
 <h4>Screenshot owner splace</h4>
